@@ -3,7 +3,7 @@
 **Aspiring Backend Developer (Python)** from **India 🇮🇳**  
 Focused on learning backend development and building strong programming fundamentals.
 
-________________________________________________________________________________________________________________________
+---
 
 ### 🌱 Currently Learning
 - Backend development with **Python**
@@ -15,7 +15,8 @@ ________________________________________________________________________________
 ### 🛠 Tech Stack
 - **Languages:** Python, C  
 - **Web:** HTML, CSS, JavaScript  
-- **Tools:** Git, GitHub, VS Code, Terminal 
+- **Tools:** Git, GitHub, VS Code, Terminal  
+
 ---
 
 ### 📂 Practice Projects
