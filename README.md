@@ -20,7 +20,7 @@ Focused on learning backend development and building strong programming fundamen
 ---
 
 ### 📂 Practice Projects
-- 🎬 **Movie Logbook** — Track and manage watched movies  
+- 🎬 **Movie Ultra** — Explore and manage your complete watchlist in one place
 - 📓 **Movie Journal Pro** — Personal movie notes & reviews  
 - 💰 **Cash Keeper Offline** — Simple offline expense tracker  
 
