@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="manojdailycode's GitHub profile" src="dark_mode.svg" />
+</picture>
+
 ## 👋 Hi, I'm Manoj Kumar
 
 **Aspiring Backend Developer (Python)** from **India 🇮🇳**  
@@ -42,8 +48,3 @@ Focused on learning backend development and building strong programming fundamen
 
 ### 🚀 Motto
 **Always learning. Always improving.**
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
-  <img alt="manojdailycode's GitHub profile" src="dark_mode.svg" />
-</picture>
