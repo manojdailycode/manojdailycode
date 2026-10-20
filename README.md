@@ -83,9 +83,8 @@
 <!-- START_SECTION:repos -->
 | Project | Description | Tech |
 |---------|-------------|------|
-| [**movie-ultra**](https://github.com/manojdailycode/movie-ultra) | 🎬 Explore & manage your complete watchlist in one place | `Python` `HTML` `CSS` |
-| [**movie-journal-pro**](https://github.com/manojdailycode/movie-journal-pro) | 📓 Personal movie notes & reviews — write, edit, revisit | `Python` `JavaScript` |
-| [**cash-keeper-offline**](https://github.com/manojdailycode/cash-keeper-offline) | 💰 Offline-first expense tracker — log & monitor daily spend | `Python` `SQLite` |
+| [**movieultra-website**](https://github.com/manojdailycode/movieultra-website) | 🎬 Description: 🎬 Personal movie, series & anime tracker — offline, fast, no login needed  Website: https://movieultra.vercel.app  Topics (add these): movie-tracker  anime  tmdb  javascript  vercel  webapp | `JavaScript` |
+| [**vibelo-flutter**](https://github.com/manojdailycode/vibelo-flutter) | 📜 No description yet. | `Dart` |
 <!-- END_SECTION:repos -->
 
 ---
